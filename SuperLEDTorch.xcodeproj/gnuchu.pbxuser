@@ -1,0 +1,437 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SuperTorchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 442}}";
+			sepNavSelRange = "{170, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SuperTorchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1196}}";
+			sepNavSelRange = "{2038, 0}";
+			sepNavVisRange = "{658, 1844}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SuperLEDTorch */ = {
+		activeExec = 0;
+		executables = (
+			AEFADA3B11E86E6D007C41FB /* SuperLEDTorch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SuperTorchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 645}}";
+			sepNavSelRange = "{751, 0}";
+			sepNavVisRange = "{0, 760}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SuperTorchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 1378}}";
+			sepNavSelRange = "{1779, 0}";
+			sepNavVisRange = "{364, 1080}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AEFADA3B11E86E6D007C41FB /* SuperLEDTorch */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SuperLEDTorch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SuperLEDTorch */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = AEFADA4711E86E78007C41FB /* Code sense */;
+		executables = (
+			AEFADA3B11E86E6D007C41FB /* SuperLEDTorch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					663,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					775,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					735,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300876310;
+			PBXWorkspaceStateSaveDate = 300876310;
+		};
+		perUserProjectItems = {
+			AE5714B811EDB6EB0093CF7B /* PlistBookmark */ = AE5714B811EDB6EB0093CF7B /* PlistBookmark */;
+			AE5715E411EF05D50093CF7B /* PBXTextBookmark */ = AE5715E411EF05D50093CF7B /* PBXTextBookmark */;
+			AE5715E511EF05D50093CF7B /* PBXTextBookmark */ = AE5715E511EF05D50093CF7B /* PBXTextBookmark */;
+			AE5715E611EF05D50093CF7B /* PBXTextBookmark */ = AE5715E611EF05D50093CF7B /* PBXTextBookmark */;
+			AE5715E711EF05D50093CF7B /* PBXTextBookmark */ = AE5715E711EF05D50093CF7B /* PBXTextBookmark */;
+			AEC95E9911EB691E00570DB9 /* PBXTextBookmark */ = AEC95E9911EB691E00570DB9 /* PBXTextBookmark */;
+			AEC95E9B11EB691E00570DB9 /* PBXTextBookmark */ = AEC95E9B11EB691E00570DB9 /* PBXTextBookmark */;
+			AEC95EC211EB6FA600570DB9 /* PBXTextBookmark */ = AEC95EC211EB6FA600570DB9 /* PBXTextBookmark */;
+			AEC95F1011ECAB2F00570DB9 /* PBXBookmark */ = AEC95F1011ECAB2F00570DB9 /* PBXBookmark */;
+			AEDD950911E8B0D500981BC7 /* PBXTextBookmark */ = AEDD950911E8B0D500981BC7 /* PBXTextBookmark */;
+			AEDD950B11E8B0D500981BC7 /* PBXTextBookmark */ = AEDD950B11E8B0D500981BC7 /* PBXTextBookmark */;
+			AEDD950C11E8B0D500981BC7 /* PBXTextBookmark */ = AEDD950C11E8B0D500981BC7 /* PBXTextBookmark */;
+			AEDD951011E8B0D500981BC7 /* PBXTextBookmark */ = AEDD951011E8B0D500981BC7 /* PBXTextBookmark */;
+			AEDD95A011E8BC9D00981BC7 /* PBXTextBookmark */ = AEDD95A011E8BC9D00981BC7 /* PBXTextBookmark */;
+			AEDD961D11E8C23B00981BC7 /* PBXTextBookmark */ = AEDD961D11E8C23B00981BC7 /* PBXTextBookmark */;
+			AEDD967111E8C87100981BC7 /* PBXTextBookmark */ = AEDD967111E8C87100981BC7 /* PBXTextBookmark */;
+			AEFADA6111E87323007C41FB /* PBXTextBookmark */ = AEFADA6111E87323007C41FB /* PBXTextBookmark */;
+			AEFADA6311E87323007C41FB /* PBXTextBookmark */ = AEFADA6311E87323007C41FB /* PBXTextBookmark */;
+		};
+		sourceControlManager = AEFADA4611E86E78007C41FB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SuperLEDTorch_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 645}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	AE5714B811EDB6EB0093CF7B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SuperLEDTorch-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/gnuchu/Documents/code/iPhone/Working Copies/SuperTorch/SuperLEDTorch-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	AE5715E411EF05D50093CF7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SuperTorchViewController.h */;
+		name = "SuperTorchViewController.h: 34";
+		rLen = 0;
+		rLoc = 751;
+		rType = 0;
+		vrLen = 760;
+		vrLoc = 0;
+	};
+	AE5715E511EF05D50093CF7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SuperTorchViewController.m */;
+		name = "SuperTorchViewController.m: 86";
+		rLen = 0;
+		rLoc = 1779;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 364;
+	};
+	AE5715E611EF05D50093CF7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SuperTorchAppDelegate.m */;
+		name = "SuperTorchAppDelegate.m: 55";
+		rLen = 0;
+		rLoc = 1916;
+		rType = 0;
+		vrLen = 1828;
+		vrLoc = 658;
+	};
+	AE5715E711EF05D50093CF7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SuperTorchAppDelegate.m */;
+		name = "SuperTorchAppDelegate.m: 59";
+		rLen = 0;
+		rLoc = 2038;
+		rType = 0;
+		vrLen = 1844;
+		vrLoc = 658;
+	};
+	AEC95E9911EB691E00570DB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SuperTorchAppDelegate.h */;
+		name = "SuperTorchAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	AEC95E9B11EB691E00570DB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD95CE11E8BD7700981BC7 /* CaptureManager.h */;
+		name = "CaptureManager.h: 27";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 0;
+	};
+	AEC95EC211EB6FA600570DB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD95CF11E8BD7700981BC7 /* CaptureManager.m */;
+		name = "CaptureManager.m: 28";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 136;
+	};
+	AEC95F1011ECAB2F00570DB9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = AEC95F0711ECAA4A00570DB9 /* icon.png */;
+	};
+	AEDD950911E8B0D500981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD950A11E8B0D500981BC7 /* AVCaptureDevice.h */;
+		name = "AVCaptureDevice.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1676;
+		vrLoc = 0;
+	};
+	AEDD950A11E8B0D500981BC7 /* AVCaptureDevice.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVCaptureDevice.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureDevice.h;
+		sourceTree = "<absolute>";
+	};
+	AEDD950B11E8B0D500981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SuperLEDTorch_Prefix.pch */;
+		name = "SuperTorch_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	AEDD950C11E8B0D500981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD950D11E8B0D500981BC7 /* CVImageBuffer.h */;
+		name = "CVImageBuffer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	AEDD950D11E8B0D500981BC7 /* CVImageBuffer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CVImageBuffer.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVImageBuffer.h;
+		sourceTree = "<absolute>";
+	};
+	AEDD950F11E8B0D500981BC7 /* AVCaptureSession.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVCaptureSession.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureSession.h;
+		sourceTree = "<absolute>";
+	};
+	AEDD951011E8B0D500981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD951111E8B0D500981BC7 /* TargetConditionals.h */;
+		name = "TargetConditionals.h: 63";
+		rLen = 16;
+		rLoc = 2918;
+		rType = 0;
+		vrLen = 2047;
+		vrLoc = 1661;
+	};
+	AEDD951111E8B0D500981BC7 /* TargetConditionals.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = TargetConditionals.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/TargetConditionals.h;
+		sourceTree = "<absolute>";
+	};
+	AEDD95A011E8BC9D00981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD95A111E8BC9D00981BC7 /* AVCaptureInput.h */;
+		name = "AVCaptureInput.h: 196";
+		rLen = 56;
+		rLoc = 7065;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 5854;
+	};
+	AEDD95A111E8BC9D00981BC7 /* AVCaptureInput.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVCaptureInput.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureInput.h;
+		sourceTree = "<absolute>";
+	};
+	AEDD95CE11E8BD7700981BC7 /* CaptureManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 442}}";
+			sepNavSelRange = "{560, 0}";
+			sepNavVisRange = "{0, 567}";
+		};
+	};
+	AEDD95CF11E8BD7700981BC7 /* CaptureManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 793}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{136, 660}";
+			sepNavWindowFrame = "{{15, 128}, {1140, 645}}";
+		};
+	};
+	AEDD961D11E8C23B00981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD961E11E8C23B00981BC7 /* AVMediaFormat.h */;
+		name = "AVMediaFormat.h: 2";
+		rLen = 15;
+		rLoc = 14;
+		rType = 0;
+		vrLen = 1533;
+		vrLoc = 0;
+	};
+	AEDD961E11E8C23B00981BC7 /* AVMediaFormat.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVMediaFormat.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVMediaFormat.h;
+		sourceTree = "<absolute>";
+	};
+	AEDD967111E8C87100981BC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEDD950F11E8B0D500981BC7 /* AVCaptureSession.h */;
+		name = "AVCaptureSession.h: 242";
+		rLen = 48;
+		rLoc = 9220;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 8660;
+	};
+	AEFADA3B11E86E6D007C41FB /* SuperLEDTorch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SuperLEDTorch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	AEFADA4611E86E78007C41FB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AEFADA4711E86E78007C41FB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AEFADA6111E87323007C41FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEFADA6211E87323007C41FB /* UIButton.h */;
+		name = "UIButton.h: 64";
+		rLen = 14;
+		rLoc = 2838;
+		rType = 0;
+		vrLen = 4209;
+		vrLoc = 1436;
+	};
+	AEFADA6211E87323007C41FB /* UIButton.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIButton.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h;
+		sourceTree = "<absolute>";
+	};
+	AEFADA6311E87323007C41FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AEFADA6411E87323007C41FB /* UIControl.h */;
+		name = "UIControl.h: 60";
+		rLen = 35;
+		rLoc = 2481;
+		rType = 0;
+		vrLen = 2474;
+		vrLoc = 1669;
+	};
+	AEFADA6411E87323007C41FB /* UIControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIControl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIControl.h;
+		sourceTree = "<absolute>";
+	};
+}
